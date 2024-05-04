@@ -1,3 +1,6 @@
+![Screenshot (165)](https://github.com/muskan-272001/CodePenClone/assets/82769613/c6d78897-9043-4304-b44b-7bb88bc19a79)
+![image](https://github.com/muskan-272001/CodePenClone/assets/82769613/de3f52c4-0fd1-4e9a-b15e-54fb2834d3fe)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
